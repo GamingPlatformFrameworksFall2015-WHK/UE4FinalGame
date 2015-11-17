@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\UE4FinalGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A6A5DDAC-9FE9-4A01-8C9D-6E231CCC655C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\UE4FinalGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\UE4FinalGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{98FE6675-AEE1-486A-AD88-2685C87BFDCB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\UE4FinalGame">
+			<UniqueIdentifier>{663DEE3F-B097-4365-8F09-BEFFB19F8055}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\UE4FinalGame\UE4FinalGame.Build.cs">
+			<Filter>Source\UE4FinalGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\UE4FinalGame\UE4FinalGame.cpp">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4FinalGame\UE4FinalGame.h">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UE4FinalGame\UE4FinalGameCharacter.cpp">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4FinalGame\UE4FinalGameCharacter.h">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UE4FinalGame\UE4FinalGameGameMode.cpp">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4FinalGame\UE4FinalGameGameMode.h">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UE4FinalGame\UE4FinalGameHUD.cpp">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4FinalGame\UE4FinalGameHUD.h">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UE4FinalGame\UE4FinalGameProjectile.cpp">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4FinalGame\UE4FinalGameProjectile.h">
+			<Filter>Source\UE4FinalGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
