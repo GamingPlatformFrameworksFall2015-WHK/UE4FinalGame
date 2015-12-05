@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\UE4FinalGame.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{8E6ECCEB-5C55-41BB-9BEF-CB6AB5BC8720}</UniqueIdentifier>
+			<UniqueIdentifier>{69A74B11-B216-4346-9E84-7D514217E262}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\UE4FinalGame.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{6573D7BA-3898-4EF0-99F7-BA817AF29657}</UniqueIdentifier>
+			<UniqueIdentifier>{AF9B1C07-9FAE-48C8-994D-BB6F2682E2E5}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\UE4FinalGame">
-			<UniqueIdentifier>{849A017B-47B6-4564-92BD-28C5E10ECBD9}</UniqueIdentifier>
+			<UniqueIdentifier>{7B84E1BA-DFDC-4150-B497-EEB33B23779B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\UE4FinalGame\UE4FinalGame.Build.cs">
 			<Filter>Source\UE4FinalGame</Filter>
